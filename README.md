@@ -12,4 +12,4 @@ Data must be in fasta format and harboring the same ID for ga4 and caa5 sequence
 **********************************
 
 
-Good CorCa clasification!
+Good CorCa classification!
