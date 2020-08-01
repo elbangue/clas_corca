@@ -4,7 +4,7 @@ Python script for the phylogenetic-based clasification of C. cassiicola isolates
 
 **********Requeriments************
 
-Python and Biopython installed on your computer.
+Python2 and Biopython installed on your computer.
 
 
 Data must be in fasta format and harboring the same ID for ga4 and caa5 sequences from the same isolate.
@@ -12,4 +12,4 @@ Data must be in fasta format and harboring the same ID for ga4 and caa5 sequence
 **********************************
 
 
-Good CorCa classification!
+Good Corynespora cassiicola classification!
